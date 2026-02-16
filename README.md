@@ -60,8 +60,8 @@
   </a>
 </div>
 
- 
-</div>
+<br>
+<br>
 
 ###
 
@@ -90,3 +90,6 @@
 </picture>
 
 ###
+
+<h3 align="center">THANK YOU FOR VISTING</h3>
+
