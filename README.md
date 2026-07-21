@@ -6,9 +6,7 @@
 </picture>
 
 <p align="right">
-  <sub>
-    <a href="https://githubwallpaper.com">Made with GitHubWallpaper</a>
-  </sub>
+  
 </p>
 <!-- GITHUBWALLPAPER:END -->
 
@@ -24,11 +22,7 @@
     media="(prefers-color-scheme: light)"
     srcset="https://ghchart.rshah.org/Sajalvishwa"
   />
-  <img
-    alt="GitHub Contribution Calendar"
-    src="https://ghchart.rshah.org/Sajalvishwa"
-    width="95%"
-  />
+  <img src="https://github-contributions-api.jogruber.de/v4/Sajalvishwa?theme=github" />
 </picture>
 
 </div>
