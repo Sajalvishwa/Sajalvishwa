@@ -1,36 +1,55 @@
-<!-- GITHUBWALLPAPER:START -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-dark.svg?v=1784615008922">
-  <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-light.svg?v=1784615008922">
-  <img alt="GitHub Profile Card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-dark.svg?v=1784615008922">
-</picture>
-
-<p align="right">
-
-
-  
-<!-- GITHUBWALLPAPER:END -->
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=FFFFFF&animation=twinkling&theme=tokyonight"/>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=50&section=header&reversal=false&text=Wellcome%20To%20My%20Profile&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=-37&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
 </div>
 
-<h1 align="center">
-Hi 👋 I'm Sajal Vishwakarma
-</h1>
+###
 
-<h3 align="center">
-🚀 Full Stack Web Developer | 💻 C++ & DSA Enthusiast | 🤖 Aspiring Data Scientist
-</h3>
+<h1 align="center">Hi 👋! My name is Sajal Vishwakarma and I'm a Full Stack Web Developer and Data Scientist ..</h1>
+
+###
+
+<h3 align="left">I Code With :</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="50" alt="chrome logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="50" alt="cloudflare logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect With Me :</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sajal-vishwakarma-b2008b27b/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" 
