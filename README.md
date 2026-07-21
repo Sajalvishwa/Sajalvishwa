@@ -12,6 +12,29 @@
 </p>
 <!-- GITHUBWALLPAPER:END -->
 
+<!-- GitHub Contribution Calendar -->
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://ghchart.rshah.org/0d1117/Sajalvishwa"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://ghchart.rshah.org/Sajalvishwa"
+  />
+  <img
+    alt="GitHub Contribution Calendar"
+    src="https://ghchart.rshah.org/Sajalvishwa"
+    width="95%"
+  />
+</picture>
+
+</div>
+
+<br>
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=FFFFFF&animation=twinkling&theme=tokyonight"/>
 </div>
@@ -23,116 +46,3 @@ Hi 👋 I'm Sajal Vishwakarma
 <h3 align="center">
 🚀 Full Stack Web Developer | 💻 C++ & DSA Enthusiast | 🤖 Aspiring Data Scientist
 </h3>
-
----
-
-## 💻 I Code With
-
-<div align="center">
-
-<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="50"/>
-<img width="15"/>
-<img src="https://cdn.simpleicons.org/git/F05032" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-<img width="15"/>
-<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50"/>
-<img width="15"/>
-<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=css" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=docker" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=html" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=js" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=netlify" height="50"/>
-<img width="15"/>
-<img src="https://skillicons.dev/icons?i=visualstudio" height="50"/>
-
-</div>
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/sajal-vishwakarma-b2008b27b/" target="_blank">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:sajalvis8627@gmail.com">
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
-</a>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sajalvishwa&theme=dracula&hide_border=false" />
-
-</div>
-
----
-
-## 👀 Visitors
-
-<div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Sajalvishwa.Sajalvishwa"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajalvishwa&theme=react&area=true"/>
-
-</div>
-
----
-
-## 🟨 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph.svg">
-
-  <img alt="Pacman Contribution Graph"
-    src="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
-<h2 align="center">
-⭐ Thanks for Visiting ⭐
-</h2>
-
-<div align="center">
-
-### Show some ❤️ by starring my repositories!
-
-</div>
