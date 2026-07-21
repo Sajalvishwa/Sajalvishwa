@@ -6,28 +6,22 @@
 </picture>
 
 <p align="right">
+
+
   
-</p>
 <!-- GITHUBWALLPAPER:END -->
 
-<!-- GitHub Contribution Calendar -->
-<div align="center">
+---
+
+## 🐍 Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://ghchart.rshah.org/0d1117/Sajalvishwa"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://ghchart.rshah.org/Sajalvishwa"
-  />
-  <img src="https://github-contributions-api.jogruber.de/v4/Sajalvishwa?theme=github" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-
-<br>
+---
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=FFFFFF&animation=twinkling&theme=tokyonight"/>
