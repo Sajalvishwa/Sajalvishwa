@@ -1,105 +1,138 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=50&section=header&reversal=false&text=Wellcome%20To%20My%20Profile&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=FFFFFF&strokeWidth=-37&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&theme=tokyonight"  />
-</div>
-
-###
-
-<h1 align="center">Hi 👋! My name is Sajal Vishwakarma and I'm a Full Stack Web Developer and Data Scientist ..</h1>
-
-###
-
-<h3 align="left">I Code With :</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="50" alt="chrome logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="50" alt="git logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="50" alt="cloudflare logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" alt="netlify logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
-</div>
-
-###
-
-<h3 align="left">Connect With Me :</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/sajal-vishwakarma-b2008b27b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sajalvis8627@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="Gmail"/>
-  </a>
-</div>
-
-<br>
-<br>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Sajalvishwa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sajalvishwa.Sajalvishwa&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajalvishwa&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<h3 align="center">THANK YOU FOR VISTING</h3>
-
-
-
 <!-- GITHUBWALLPAPER:START -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-dark.svg?v=1784615008922">
   <source media="(prefers-color-scheme: light)" srcset="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-light.svg?v=1784615008922">
-  <img alt="GitHub profile card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-dark.svg?v=1784615008922">
+  <img alt="GitHub Profile Card" src="https://pub-98d2cd4dac4e4a9d899b190ba95f3ace.r2.dev/cards/hlr58j4v3yr3scq7xzat4vqu-dark.svg?v=1784615008922">
 </picture>
-<p align="right"><sub><a href="https://githubwallpaper.com">made with githubwallpaper.com</a></sub></p>
+
+<p align="right">
+  <sub>
+    <a href="https://githubwallpaper.com">Made with GitHubWallpaper</a>
+  </sub>
+</p>
 <!-- GITHUBWALLPAPER:END -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=45&fontColor=FFFFFF&animation=twinkling&theme=tokyonight"/>
+</div>
+
+<h1 align="center">
+Hi 👋 I'm Sajal Vishwakarma
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Web Developer | 💻 C++ & DSA Enthusiast | 🤖 Aspiring Data Scientist
+</h3>
+
+---
+
+## 💻 I Code With
+
+<div align="center">
+
+<img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="50"/>
+<img width="15"/>
+<img src="https://cdn.simpleicons.org/git/F05032" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+<img width="15"/>
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50"/>
+<img width="15"/>
+<img src="https://cdn.simpleicons.org/cloudflare/F38020" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=css" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=docker" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=gcp" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=html" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=js" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=netlify" height="50"/>
+<img width="15"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" height="50"/>
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sajal-vishwakarma-b2008b27b/" target="_blank">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:sajalvis8627@gmail.com">
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50"/>
+</a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sajalvishwa&theme=dracula&hide_border=false" />
+
+</div>
+
+---
+
+## 👀 Visitors
+
+<div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Sajalvishwa.Sajalvishwa"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sajalvishwa&theme=react&area=true"/>
+
+</div>
+
+---
+
+## 🟨 Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph.svg">
+
+  <img alt="Pacman Contribution Graph"
+    src="https://raw.githubusercontent.com/Sajalvishwa/Sajalvishwa/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+<h2 align="center">
+⭐ Thanks for Visiting ⭐
+</h2>
+
+<div align="center">
+
+### Show some ❤️ by starring my repositories!
+
+</div>
